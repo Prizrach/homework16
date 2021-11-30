@@ -1,0 +1,4 @@
+
+Usquid:S3655"7Call "Optional#isPresent()" before accessing the value.(•Ê·¸8„ì»îó,
+Lsquid:S1481")Remove this unused "user" local variable.(ÈìóÓşÿÿÿÿ8„ì»îó,
+msquid:UselessImportCheck"BRemove this unused import 'com.training.emelyanenko.domain.Order'.(ÑØ’¸8Ùœ‚ô,

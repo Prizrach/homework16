@@ -1,0 +1,8 @@
+INSERT INTO GOOD (TITLE, Price)
+VALUES ('Lays', 1.0);
+INSERT INTO GOOD (TITLE, Price)
+VALUES ('Coca-Cola', 2.0);
+INSERT INTO GOOD (TITLE, Price)
+VALUES ('Sprite', 2.0);
+INSERT INTO GOOD (TITLE, Price)
+VALUES ('Fanta', 2.0);

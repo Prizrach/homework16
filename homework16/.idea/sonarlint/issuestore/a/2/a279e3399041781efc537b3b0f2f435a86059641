@@ -1,0 +1,7 @@
+
+gsquid:S1192""IDefine a constant instead of duplicating this literal "customer" 6 times.(…™×³8§€Úò,
+Dsquid:S19898"&Add a "try/catch" block for "forward".(¼·¦­8§€Úò,
+Dsquid:S1989#"&Add a "try/catch" block for "forward".(¼·¦­8§€Úò,
+}squid:UselessImportCheck"RRemove this unused import 'com.training.emelyanenko.repository.ProductRepository'.(±ê¥ç8ç‘ƒô,
+Dsquid:S1989#"&Add a "try/catch" block for "forward".(¼·¦­8§€Úò,
+Dsquid:S19898"&Add a "try/catch" block for "forward".(¼·¦­8§€Úò,
